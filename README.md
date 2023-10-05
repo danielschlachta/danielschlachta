@@ -1,5 +1,7 @@
-### Hi there 👋
-
+  "There is no reason for any individual to have a computer in their
+  home."
+                -- Ken Olson, President of DEC, World Future Society
+                   Convention, 1977
 <!--
 **danielschlachta/danielschlachta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
